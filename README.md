@@ -17,3 +17,8 @@ Next, use tools and resources to help manage your workflow. For example, using v
 - "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
 
 This quote emphasizes the importance of writing clean, well-structured, and easily understandable code. It's not just about making your own life easier, but also about considering the people who will have to work with your code in the future. By following best practices and striving for clarity, you can make everyone's job easier and reduce the likelihood of introducing bugs or other issues.
+
+# 2023-11-19
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while acknowledging the ever-present possibility of users finding new and unexpected ways to break or misuse it. It also emphasizes the importance of considering the end-user in the development process and designing programs that can withstand real-world usage.
