@@ -47,3 +47,10 @@ Additionally, it' s important to stay up-to-date with the latest programming lan
 
 Next, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to overcome them. It will also help to keep you focused and on track with your goals. 
  - 来自n.p.s.
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. Prioritize tasks: When you're working on a project, make sure to list all the tasks that need to get done. Then, prioritize them based on their importance and urgency. By doing this, you can make better use of your Time and ensure that you focus on the most critical tasks first.
+2. Plan your tim e: Use a scheduling tool or planner to plan out your day, week, or even month. Block out time for each task, taking into account the time it will take you and any potential interruptions. Allotting time in advance will make it easier to stay focused and avoid getting sidetracked. 
+3. Stay organized: Keep your workspace clean and clutter-free. Organize your code, files, folders, etc. in a way that makes sense to you. Using version control systems, like Git, can also help with organization and collaboration. When things are well-organized, it' s easier t o find what you need and reduce the likelihood of making mistakes.
