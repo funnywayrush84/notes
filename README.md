@@ -67,3 +67,9 @@ This quote highlights the importance of designing user-friendly and intuitive so
 
 # 2023-11-29
 - "Keep it simple, stupid!"
+
+# 2023-11-30
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing, you can ensure that your time and energy are being used wisely.
+
+Secondly, planning ahead is essential. Before beginning a new project or task, take the time to think through the steps involved and create a plan. Knowing what you need to do and when to accomplish it can help prevent last-minute panic and ensure a smoother process. Planning also helps you stay focused and make better decisions along the way. 
+ - 来自NLP
