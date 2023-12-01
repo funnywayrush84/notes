@@ -73,3 +73,6 @@ This quote highlights the importance of designing user-friendly and intuitive so
 
 Secondly, planning ahead is essential. Before beginning a new project or task, take the time to think through the steps involved and create a plan. Knowing what you need to do and when to accomplish it can help prevent last-minute panic and ensure a smoother process. Planning also helps you stay focused and make better decisions along the way. 
  - 来自NLP
+
+# 2023-12-01
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to keep your code organized and easy to maintain. Remember to take breaks and avoid multitasking, which can lead to decreased efficiency and quality of work
