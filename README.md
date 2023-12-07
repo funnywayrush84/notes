@@ -105,3 +105,8 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 
 Secondly, planning ahead is crucial. Make sure you have a plan for your day, week, or even month. Knowing what you want to achieve and when will keep you on track and prevent you from getting sidetracked. Use task management tools, such as Trello or Asana, to help organize your plans and keep track of your progress. 
  - 来自帮助助手
+
+# 2023-12-07
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potential performance issues. It's better to write clean, simple code first and optimize only when needed.
