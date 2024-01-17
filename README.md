@@ -282,3 +282,9 @@ To be successful in programming, it' s essential to have a deep understanding of
 
 # 2024-01-16
 - "Keep it simple, stupid!"
+
+# 2024-01-17
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, readable, and maintainable code first. Optimize only when necessary, after profiling and identifying actual bottlenecks." 
+
+In more than a sentence: 
+Remember that while efficiency is crucial in software development, it's often overemphasized too early in the process. Invest your time initially in creating clear, well-structured, and easily debuggable code. This approach fosters adaptability to changing requirements and allows for better collaboration among team members. Only when you have concrete data indicating performance issues should you focus on optimizing specific parts of your program.
