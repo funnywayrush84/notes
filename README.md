@@ -525,3 +525,13 @@ In the context of coding, this quote reminds us that writing clean, concise, and
 
 # 2024-03-06
 - "Keep it simple, stupid!"
+
+# 2024-03-07
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function, method, class, module, etc. names that accurately represent their purpose and functionality.
+2. Follow coding conventions and standards for the language and framework you're using. These guidelines exist to ensure consistency and reduce the likelihood of errors. Some common conventions include using camelCase for class names and snake_case for variable names. 
+3. Break up large blocks of code into smaller, more manageable functions and methods. Not only does this make the code easier to understand, but it also makes it easier for others to contribute to your project. Additionally, functions can make your code more reusable and easier maintain.  
+4. Comment your Code. Add concise explanations and documentation for any complex or critical sections of your program. Make sure to update these comments as your codes changes over time. Comments can also help you better understand your own code in the future.   
+5. Write tests and use version control. Testing your work ensures that your software functions as intended and helps you identify and fix any issues. Version control, such as Git, allows you to track changes to the source code, making it easy to revert to previous versions if needed and collaborate with others on your projects.    
+6. Continuously learn and adapt to new technologies and programming practices. The coding world is constantly evolving, so staying up-do-date with the latest tools, techniques, languages, frameworks, libraries, et cetera, can help make you a more effective and efficient programmer.
